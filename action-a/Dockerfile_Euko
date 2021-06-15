@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Resume_Euko</title>
+</head>
+<body>
+<h1>Resume</h1>
+<ul>
+<li></li>
+</ul>
+<h2>Auto</h2>
+<ul>
+  <li>5</li>
+  <li>6</li>
+  <li>7</li>
+  <li>8</li>
+</ul>
+<img src="11.png" alt="11">
+<table border="1" col span="2">
+<tr>
+   <td>t</td>
+   <td>shh</td>
+</tr>
+<tr>
+   <td>t</td>
+   <td>hsdfh</td>
+</tr>
+</table>
+</body>
+</html>
